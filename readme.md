@@ -1,3 +1,0 @@
-# Bienvenue au Hackathon PackApp !
-
-Ressources page d'acceuil,page d'erreur ...
